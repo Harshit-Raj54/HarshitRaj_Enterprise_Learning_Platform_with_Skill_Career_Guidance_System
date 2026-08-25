@@ -7,7 +7,7 @@ Built with **React (Vite + Tailwind CSS)** on the frontend and **Spring Boot 3 +
 ## 🌐 Live Demo
 **[Enterprise Learning Platform with Skill & Career Guidance System Live Demo](http://skill-sphere-wheat.vercel.app/)**
 
----
+-----
 
 ## 📑 Table of Contents
 - [Features](#-features)
