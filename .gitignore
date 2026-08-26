@@ -1,0 +1,31 @@
+# Environment / secrets
+.env
+*.env
+frontend/.env
+backend/.env
+
+# Node.js
+node_modules/
+frontend/node_modules/
+
+# Frontend build
+frontend/dist/
+dist/
+
+# Java / Maven build
+target/
+*/target/
+
+# IDE
+.vscode/
+.idea/
+
+# Build output
+build/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
